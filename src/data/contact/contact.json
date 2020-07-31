@@ -1,0 +1,20 @@
+{
+    "contacts": [
+        {
+            "name": "LinkedIn",
+            "url": "https://www.linkedin.com/in/pawanakhil",
+            "icon": "FaLinkedin"
+        },
+        {
+            "name": "GitHub",
+            "url": "https://www.github.com/pawanakhil",
+            "icon": "FaGithub"
+        },
+   
+        {
+            "name": "Email",
+            "url": "pawanakhil.dasari@gmail.com",
+            "icon": "FaEnvelope"
+        }
+    ]
+}

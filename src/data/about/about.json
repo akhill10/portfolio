@@ -1,0 +1,60 @@
+{
+    "experiences": [
+        {
+            "name": "TheRightDoctors, Google Launchpad Startup",
+            "role": "Software Engineering Intern => Full Stack",
+            "duration": "Jan 2020 - Present",
+            "logo": "google-laun1.png", 
+            "description": "Built a behavior-based automation of mailers based on the response or interaction by a customer.Built a blogs recommendation system, based upon users current reading blog using Elastic Search MLT Query.Created a dashboard to dynamically to view and change the position of topics on website in real time."
+        },
+	{
+	    "name": "India In Pixels",
+            "role": "Data Science Intern",
+            "duration": "June 2019 - July 2019",
+            "logo": "indiainpixels.png",
+            "description": "Built a web scrapper, that constantly scrapes the unstructured data from website and converts them into required format.Further performed Data Cleaning, Data Pre-processing and Data Analysis."
+
+	},
+	{
+	    "name": "RINL Pvt. Ltd.",
+            "role": " Web Developer Intern",
+            "duration": "May 2018 - June 2018",
+            "logo": "rinl.png",
+            "description": "Worked on building a complaint registration website from scratch for the employees of the company."
+
+	}
+        
+    ],
+    "education": [
+        {
+            "name": "BML Munjal University ",
+            "role": "Computer Science & Engineering",
+            "duration": "Aug 2016 - Present",
+            "logo": "bmu.png"
+        }
+ 
+    ],
+    "skills": {
+        "languages": [
+            "Python",
+            "Java",
+            "GoLang"
+        ],
+	"web-framework":[
+	     "Angular 6/7", "NodeJS", "Express", "HTML/CSS", "TypeScript", "REST-API", "Django", "GraphQL"
+	],
+        "databases": [
+            "MySQL",
+            "MongoDB"
+        ],
+        "cloudplatforms": [
+            "GCP"
+        ],
+        "more": [
+            "Firebase",
+            "Heroku",
+            "Tkinter",
+            "Git"
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "projects": [
+        {
+            "name": "Twitter Video Downloader",
+            "description": "Solved a real-world problem of downloading twitter video streams, created a bot which replies to user by providing them a downloadable link.Furtherly, shorten the long form of cloud url using Python, Django and GraphQL",
+            "url": "https://github.com/pawanakhil/panda-video-downloader",
+            "logo": "How-to-Download-Videos-From-Twitter.png",
+            "m_url":""
+        },
+        {
+            "name": "Secure pad: Collaborative Text Editor ",
+            "description": "Built a real-time collaborative rich text editor powered by a blockchain  with latency of 0.5 sec for each operation to multiple peers on the network.",
+            "url": "https://github.com/pawanakhil/secure-pad-app",
+            "logo": "glaufireauth.png",
+            "m_url" : ""
+        },
+        {
+            "name": "X-Ray Vison (Deep Learning Approach",
+            "description": "Pre trained VGGNet-16 CNN  model via fine tuning with SGD optimizer for the classification of Normal vs Opacity vs Cardiomegaly.",
+            "url": "https://github.com/pawanakhil/Chest-XRay-Vision",
+            "logo": "DeepLearn.png",
+            "m_url" : ""
+
+        },
+	{
+	    "name": "Memory Management in C/C++ ",
+            "description": "Implemented a custom malloc function with srbk() system call and Linked List Data Structure.Further, implemented paging and segmentation memory managements schemes.",
+            "url": "https://github.com/pawan/memory-management",
+            "logo": "Memory-1024x683.jpg",
+            "m_url" : ""
+
+	    
+	}
+    ]
+}
